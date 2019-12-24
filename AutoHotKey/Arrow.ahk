@@ -1,6 +1,6 @@
 #InstallKeybdHook
 #UseHook
-sleep_time := 30
+sleep_time := 15
 
 ;**********************
 ;    左矢印のキーバインド
